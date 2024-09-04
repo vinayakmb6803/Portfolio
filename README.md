@@ -6,5 +6,7 @@ Email: vinayakmbmb123@gmail.com
 LinkedIn: https://www.linkedin.com/in/vinayak-badiger-893068162/
 
 # Projects
-[![Image Classification Using CNN for Glasses Detection](https://github.com/vinayakmb6803/MLOPS/blob/main/Image-classification.jpg)](https://github.com/vinayakmb6803/Amazon-Customer-Data-Analysis)
+
+![Image Classification Using CNN for Glasses Detection](https://github.com/vinayakmb6803/MLOPS/blob/main/Image-classification.jpg)
+# Image Classification
 
