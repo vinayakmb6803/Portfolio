@@ -7,8 +7,8 @@ This portfolio also contains my Achievements, skills, and certificates. It is up
 
 ## Projects
 
-<img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+<img align="left" width="250" height="150" src="https://github.com/vinayakmb6803/MLOPS/blob/main/Image-classification.jpg"> **[Image Classification Using CNN for Glasses Detection](https://github.com/vinayakmb6803/-Image-Classification-Using-CNN-for-Glasses-Detection)**
 
-In this project I have used survival analysis to study how the likelihood of the customer churn changes over time. I have also implementd a Random Forest model to predict the customer churn and deployed a model using flask webapp on Heroku. [App](https://churn-prediction-app.herokuapp.com/)  
+Developed a deep learning model using CNNs to accurately distinguish between individuals with and without glasses, addressing challenges like facial variations, lighting inconsistencies, and occlusions. Applied image augmentation to enhance robustness and optimized model parameters to improve classification accuracy. The final model showed strong performance across various evaluation metrics.
 
 
